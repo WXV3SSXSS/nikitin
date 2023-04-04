@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite_Structure_by_WAV3SSXSS", "Composite_Structure_by_WAV3SSXSS\Composite_Structure_by_WAV3SSXSS.csproj", "{363AC28B-AD6D-49B0-BE52-7615B050FBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363AC28B-AD6D-49B0-BE52-7615B050FBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363AC28B-AD6D-49B0-BE52-7615B050FBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363AC28B-AD6D-49B0-BE52-7615B050FBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363AC28B-AD6D-49B0-BE52-7615B050FBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B58BB0-ECDB-4706-86CF-A56A46B573D6}
+	EndGlobalSection
+EndGlobal
